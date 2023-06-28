@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "ATH Infosystems"
+    },
+    "libraryName": "personalTab",
+    "generator-version": "4.1.1-preview.2"
+  }
+}
